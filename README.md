@@ -1,4 +1,4 @@
- AI_AgriYield_Predictor - ArtiKumari
+ AI_AgriYield_Predictor project :-
 
  Submission Details
 
@@ -43,5 +43,6 @@ The goal is to prepare the raw data for model training in upcoming milestones.
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn  
 - IDE/Editor: VS Code  
 - Version Control: Git and GitHub
+
 
 
