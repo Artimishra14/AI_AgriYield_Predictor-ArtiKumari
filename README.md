@@ -32,7 +32,7 @@ The goal is to prepare the raw data for model training in upcoming milestones.
 | **Foodgrains1.csv** | Contains production and yield information of foodgrains. |
 | **oilseeds1.csv** | Dataset with production statistics of oilseed crops. |
 | **projectdata.csv** | Combined dataset before cleaning and preprocessing. |
-| **projectdata_cleaned.csv** | Final cleaned and processed dataset used for EDA. |
+| **final_agri_full_dataset.csv** | Final cleaned and processed dataset used for EDA. |
 | **eda.py** | Python script that performs Exploratory Data Analysis (visualizations, correlations, summary statistics). |
 | **merge_agri_datasets.py** | Script that merges all raw datasets into one unified dataset. |
 
@@ -43,6 +43,7 @@ The goal is to prepare the raw data for model training in upcoming milestones.
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn  
 - IDE/Editor: VS Code  
 - Version Control: Git and GitHub
+
 
 
 
