@@ -1,0 +1,12 @@
+[
+  {
+    "Soil_pH": 5.5,
+    "Temperature": 9.440599,
+    "Humidity": 80.0,
+    "Wind_Speed": 10.95671,
+    "N": 60.5,
+    "P": 45.0,
+    "K": 30.5,
+    "Soil_Quality": 22.83333,
+    "Crop_Type": "wheat",
+    "yield": 

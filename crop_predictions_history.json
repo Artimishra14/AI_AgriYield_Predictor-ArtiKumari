@@ -1,0 +1,41 @@
+[
+  {
+    "Soil_pH": 5.5,
+    "Temperature": 9.440599,
+    "Humidity": 80.0,
+    "Wind_Speed": 10.95671,
+    "N": 60.5,
+    "P": 45.0,
+    "K": 31.5,
+    "Soil_Quality": 22.83333,
+    "Crop_Type": "wheat",
+    "yield": -0.1,
+    "date": "2025-11-03 18:54:08"
+  },
+  {
+    "Soil_pH": 5.5,
+    "Temperature": 16.11039,
+    "Humidity": 80.0,
+    "Wind_Speed": 7.69607,
+    "N": 49.5,
+    "P": 45.0,
+    "K": 38.5,
+    "Soil_Quality": 22.16667,
+    "Crop_Type": "soyabean",
+    "yield": 32.12,
+    "date": "2025-11-03 12:19:29"
+  },
+  {
+    "Soil_pH": 6.5,
+    "Temperature": 15.2,
+    "Humidity": 80.0,
+    "Wind_Speed": 6.5,
+    "N": 63.0,
+    "P": 60.0,
+    "K": 55.0,
+    "Soil_Quality": 59.7,
+    "Crop_Type": "soyabean",
+    "yield": 46.96,
+    "date": "2025-11-03 12:14:26"
+  }
+]
