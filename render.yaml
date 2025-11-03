@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: agri-predict-flask
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn flaskapp:app
+    plan: free
