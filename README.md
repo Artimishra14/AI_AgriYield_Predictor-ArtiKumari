@@ -2,7 +2,7 @@
 
  Submission Details
 
-GitHub account:- AI_Agriculture_Predictor-ArtiKumari
+GitHub account:- Artimishra14
 
  Project Overview
 
@@ -43,6 +43,7 @@ The goal is to prepare the raw data for model training in upcoming milestones.
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn  
 - IDE/Editor: VS Code  
 - Version Control: Git and GitHub
+
 
 
 
